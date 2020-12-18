@@ -3,4 +3,6 @@ TUTORIAL TIME BOYS
 
 hello
 
-write a bit about yourself
+The time is now: The end of 2020
+
+hello again boyos ;^]
